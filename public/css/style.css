@@ -1,0 +1,8 @@
+body {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background: gray;
+}
+
+.Todo-Item:hover .trash-icon{
+  display:block;
+}
